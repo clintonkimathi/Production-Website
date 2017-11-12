@@ -1,0 +1,33 @@
+body{
+
+}
+.navbar navbar-inverse  navbar-fixed-top{
+background-color:white;
+}
+.nav .row{
+ background-color:blue;
+ padding-top:15px;
+ padding-left:40px;
+ padding-right:40px;
+ 
+}
+.glyphicon{
+  font-size:25;
+  color:yellow;
+  
+}
+.glyphicon:focus{
+  background-color:red;
+}
+.top{
+  color:yellow;
+  font-size:18px;
+}
+.top:hover, .top:active, .top:focus{
+    color:red;
+}
+.Img {
+  width:100%;
+  color:red;
+}
+
